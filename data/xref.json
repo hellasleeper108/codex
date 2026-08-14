@@ -1,0 +1,163 @@
+{
+  "mercury": {
+    "hermeticism": "Logos, mediation, writing, magic, and the art of transmission.",
+    "kabbalah": "Hod; analytic mind, language, ritual form, and splendor.",
+    "alchemy": "Mercury; volatile spirit, solvent, mediator between sulfur and salt.",
+    "tarot": "Magician; Beth; path 12.",
+    "astrology": "Mercury; Gemini and Virgo; intellect, exchange, and interpretation."
+  },
+  "venus": {
+    "hermeticism": "Attraction, harmony, beauty, and the binding power of sympathy.",
+    "kabbalah": "Netzach; desire, emotion, art, and victorious endurance.",
+    "alchemy": "Copper; green tincture, beauty, fertility, and cohesion.",
+    "tarot": "Empress; Daleth; path 14.",
+    "astrology": "Venus; Taurus and Libra; affection, aesthetics, and value."
+  },
+  "sun": {
+    "hermeticism": "Central light, consciousness, health, kingship, and the visible divine image.",
+    "kabbalah": "Tiferet; beauty, sacrifice, harmony, and the solar self.",
+    "alchemy": "Gold; perfection, incorruptibility, and the goal of the opus.",
+    "tarot": "Sun; Resh; path 30.",
+    "astrology": "Sun; vitality, visibility, purpose, and the heart."
+  },
+  "moon": {
+    "hermeticism": "Reflection, imagination, flux, memory, and the vessel of forms.",
+    "kabbalah": "Yesod; foundation, dream, image, and astral patterning.",
+    "alchemy": "Silver; receptivity, whitening, purification, and lunar moisture.",
+    "tarot": "High Priestess and Moon; Gimel and Qoph.",
+    "astrology": "Moon; Cancer; tides, instinct, body rhythms, and memory."
+  },
+  "mars": {
+    "hermeticism": "Force, cutting, conflict, courage, and purgation.",
+    "kabbalah": "Gevurah; severity, judgment, discipline, and strength.",
+    "alchemy": "Iron; fire, weaponry, calcination, and active separation.",
+    "tarot": "Tower; Peh; path 27.",
+    "astrology": "Mars; Aries and Scorpio; assertion, heat, and rupture."
+  },
+  "jupiter": {
+    "hermeticism": "Expansion, blessing, order, rulership, and benevolent law.",
+    "kabbalah": "Chesed; mercy, generosity, and stabilized authority.",
+    "alchemy": "Tin; increase, protection, and temperate growth.",
+    "tarot": "Wheel of Fortune; Kaph; path 21.",
+    "astrology": "Jupiter; Sagittarius and Pisces; abundance, doctrine, and scope."
+  },
+  "saturn": {
+    "hermeticism": "Boundary, time, contemplation, mortality, and crystallization.",
+    "kabbalah": "Binah; understanding, form, limitation, and the great sea.",
+    "alchemy": "Lead; nigredo, gravity, age, and first matter.",
+    "tarot": "World; Tav; path 32.",
+    "astrology": "Saturn; Capricorn and Aquarius; structure, consequence, and endurance."
+  },
+  "fire": {
+    "hermeticism": "Volition, spirit, heat, transformation, and ascent.",
+    "kabbalah": "Shin; the active element and purifying spirit.",
+    "alchemy": "Calcination; burning away the dense and impure.",
+    "tarot": "Judgment; wands in the minor arcana.",
+    "astrology": "Aries, Leo, Sagittarius; initiative, vitality, and inspiration."
+  },
+  "water": {
+    "hermeticism": "Emotion, dissolution, receptivity, and the imaginal current.",
+    "kabbalah": "Mem; the maternal waters and reflective depth.",
+    "alchemy": "Dissolution; returning fixed substance to fluid possibility.",
+    "tarot": "Hanged Man; cups in the minor arcana.",
+    "astrology": "Cancer, Scorpio, Pisces; feeling, memory, and depth."
+  },
+  "air": {
+    "hermeticism": "Breath, mind, motion, mediation, and subtle exchange.",
+    "kabbalah": "Aleph; divine breath between polarities.",
+    "alchemy": "Sublimation; raising substance into subtle form.",
+    "tarot": "Fool; swords in the minor arcana.",
+    "astrology": "Gemini, Libra, Aquarius; thought, relation, and circulation."
+  },
+  "earth": {
+    "hermeticism": "Embodiment, stability, manifestation, and the field of work.",
+    "kabbalah": "Malkuth; kingdom and the material plane.",
+    "alchemy": "Salt; body, fixity, crystallization, and residue.",
+    "tarot": "World; disks or pentacles in the minor arcana.",
+    "astrology": "Taurus, Virgo, Capricorn; matter, craft, and endurance."
+  },
+  "keter": {
+    "hermeticism": "Keter/Crown — the first Sefirah, the divine will, the point of unity before differentiation. Corresponds to Nous (Divine Mind) in Hermeticism.",
+    "kabbalah": "Keter — Crown, the first Sefirah, closest to Ein Sof. Divine will, the superconscious.",
+    "alchemy": "The prima materia, the unmanifest source before the work begins.",
+    "tarot": "The Fool — Aleph, Path 11, connecting Keter to Chokhmah.",
+    "astrology": "Primum Mobile — the first swirlings, beyond the fixed stars."
+  },
+  "nous": {
+    "hermeticism": "Nous — Divine Mind, the first emanation from the One. The light that existed before all things. God the father in Poimandres.",
+    "kabbalah": "Keter — the first Sefirah, the point of contact between Ein Sof and creation.",
+    "alchemy": "The lapis philosophorum, the goal of the Great Work.",
+    "tarot": "The Fool — the spirit before descent into matter.",
+    "astrology": "The Primum Mobile, the first motion."
+  },
+  "chokhmah": {
+    "hermeticism": "Chokhmah/Wisdom — the flash of creative insight, the father. Corresponds to the Logos (Word) in Hermeticism.",
+    "kabbalah": "Chokhmah — Wisdom, the second Sefirah. Pure potential, the first flash of insight.",
+    "alchemy": "Sulfur — the active, masculine principle, the fiery seed.",
+    "tarot": "The Magician — Beth, Path 12, connecting Keter to Binah.",
+    "astrology": "The Zodiac / Fixed Stars."
+  },
+  "binah": {
+    "hermeticism": "Binah/Understanding — the mother, the womb of creation. Corresponds to the Demiurge (craftsman mind) in Hermeticism.",
+    "kabbalah": "Binah — Understanding, the third Sefirah. Form, structure, the great mother.",
+    "alchemy": "Salt — the body, the fixed principle, the vessel.",
+    "tarot": "The High Priestess — Gimel, Path 13, connecting Keter to Tiferet.",
+    "astrology": "Saturn — limitation, form, time."
+  },
+  "tiferet": {
+    "hermeticism": "Tiferet/Beauty — the center, the heart, the solar self. The goal of the soul's journey through the spheres.",
+    "kabbalah": "Tiferet — Beauty, the sixth Sefirah. Harmony, compassion, the son.",
+    "alchemy": "Gold — the philosopher's stone, the perfected self.",
+    "tarot": "The Sun — Resh, Path 30, connecting Hod to Yesod.",
+    "astrology": "The Sun — vitality, the center, the visible god."
+  },
+  "malkuth": {
+    "hermeticism": "Malkuth/Kingdom — the material world, the physical realm. The place of incarnation and the starting point of the ascent.",
+    "kabbalah": "Malkuth — Kingdom, the tenth Sefirah. The Shekhinah, the divine presence in the world.",
+    "alchemy": "The prima materia, the base metal to be transmuted.",
+    "tarot": "The World — Tav, Path 32, connecting Yesod to Malkuth.",
+    "astrology": "Earth — the four elements, the physical plane."
+  },
+  "daat": {
+    "hermeticism": "Da'at/Knowledge — the hidden Sefirah, the Abyss. The threshold between the Supernal Triad and the lower seven. Corresponds to the Ogdoad (eighth sphere) in Hermeticism.",
+    "kabbalah": "Da'at — Knowledge, the hidden Sefirah. The abyss, the veil between the divine and the manifest.",
+    "alchemy": "The nigredo, the black stage, the dissolution of the ego.",
+    "tarot": "The Hanged Man — Mem, Path 23, connecting Gevurah to Hod.",
+    "astrology": "The Ogdoad — the eighth sphere, beyond the seven planets."
+  },
+  "ein sof": {
+    "hermeticism": "Ein Sof — the infinite, the unknowable source beyond all attributes. Corresponds to the One/Monad in Hermeticism.",
+    "kabbalah": "Ein Sof — the infinite, the boundless. The hidden God beyond all names and forms.",
+    "alchemy": "The Azoth, the universal solvent, the undifferentiated source.",
+    "tarot": "The Fool — the zero, the unmanifest before the journey begins.",
+    "astrology": "The Ain — nothingness, the void before creation."
+  },
+  "logos": {
+    "hermeticism": "Logos — the Word, the son of god, the creative utterance that orders chaos. The luminous word that comes from Nous.",
+    "kabbalah": "Chokhmah — Wisdom, the first flash of creation. The Logos as the divine utterance.",
+    "alchemy": "The green lion, the active principle, the beginning of the work.",
+    "tarot": "The Magician — the will, the active principle, the channel.",
+    "astrology": "Mercury — the messenger, the mediator between realms."
+  },
+  "demiurge": {
+    "hermeticism": "Demiurge — the craftsman mind, the second god. Creates the seven governors and the material cosmos. Not evil, but limited.",
+    "kabbalah": "Binah — Understanding, the mother. The structuring principle that gives form to the flash of wisdom.",
+    "alchemy": "The athanor, the furnace, the vessel of transformation.",
+    "tarot": "The Empress — the feminine creative principle, nature, fertility.",
+    "astrology": "Saturn — the limit, the boundary, the gate."
+  },
+  "sophia": {
+    "hermeticism": "Sophia/Wisdom — the feminine principle of wisdom. In Gnosticism, the youngest Aeon whose fall creates the material world.",
+    "kabbalah": "Chokhmah — Wisdom, the second Sefirah. Also the Shekhinah, the divine presence.",
+    "alchemy": "The white queen, the lunar principle, the receptive vessel.",
+    "tarot": "The High Priestess — the hidden wisdom, the veil between worlds.",
+    "astrology": "The Moon — reflection, intuition, the subconscious."
+  },
+  "pleroma": {
+    "hermeticism": "Pleroma/Fullness — the divine realm of perfect light and harmony. The fullness of the Aeons. Corresponds to the Ogdoad and beyond.",
+    "kabbalah": "The world of Atziluth — Emanation, the highest of the Four Worlds. The realm of the Sefirot.",
+    "alchemy": "The rubedo, the red stage, the completion of the Great Work.",
+    "tarot": "The World — the completion, the union of all opposites.",
+    "astrology": "The eighth sphere, beyond the seven planets."
+  }
+}

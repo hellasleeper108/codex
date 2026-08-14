@@ -1,0 +1,192 @@
+{
+  "updated": "2026-08-14",
+  "ranking_source": {
+    "name": "CODEX desk",
+    "title": "TRACTATE-10 — books that taught the West to read the hidden",
+    "url": "https://www.sacred-texts.com/",
+    "published": "2026-08-14",
+    "note": "Editorial ranking, not a canon. Order follows how completely each text became a working desk for later readers. Excerpts are short and taken from public-domain translations. Modern copyrighted renderings are not hosted."
+  },
+  "tractates": [
+    {
+      "rank": 1,
+      "id": "poimandres",
+      "name": "Poimandres",
+      "aliases": ["Corpus Hermeticum I", "Pimander", "The Shepherd of Men"],
+      "tradition": "Hermetic",
+      "lang": "Greek",
+      "century": "2nd–3rd c.",
+      "weight": "critical",
+      "summary": "Opening tract of the Corpus Hermeticum. Nous (Mind) appears to Hermes as Poimandres and narrates a cosmogony: light, a craftsman mind, seven governors, and a human who falls into nature then can ascend. The Western hermetic desk starts here.",
+      "in_the_file": "A single dialogue, not the whole Corpus. Later books (CH IV, XIII, Asclepius) develop rebirth and the silent hymn. Mead's 1906 English is the public-domain working copy.",
+      "excerpt": "Then from the Light a Word came forth to me, and Nature, taking the Word unto herself, made order out of chaos. And I said, Who art thou? He saith, I am Poimandres, Mind of all-masterhood.",
+      "also_see": ["emerald-tablet", "apocryphon-john"],
+      "sources": [
+        {"label": "Mead, Thrice-Greatest Hermes (1906)", "url": "https://www.sacred-texts.com/gno/th1/th110.htm"},
+        {"label": "Sacred Texts — Hermetic corpus", "url": "https://www.sacred-texts.com/gno/index.htm"}
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "emerald-tablet",
+      "name": "Emerald Tablet",
+      "aliases": ["Tabula Smaragdina", "Tabula Hermetis"],
+      "tradition": "Hermetic / Alchemy",
+      "lang": "Arabic → Latin",
+      "century": "8th–12th c. (Latin 12th)",
+      "weight": "critical",
+      "summary": "A short alchemical credo attributed to Hermes. The line everyone knows — that which is below is like that which is above — is a medieval Latin rendering of an earlier Arabic text. It is a method slogan, not a long book.",
+      "in_the_file": "A dozen lines. Newton's English version is public domain and still the cleanest desk copy. Do not confuse it with the modern 'Kybalion' (1908), a different work.",
+      "excerpt": "That which is below is like that which is above, and that which is above is like that which is below, to accomplish the miracles of the one thing.",
+      "also_see": ["poimandres", "agrippa"],
+      "sources": [
+        {"label": "Newton's English (Keynes MS 28)", "url": "https://webapp1.dlib.indiana.edu/newton/"},
+        {"label": "Sacred Texts — Emerald Table", "url": "https://www.sacred-texts.com/alc/emerald.htm"}
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "sefer-yetzirah",
+      "name": "Sefer Yetzirah",
+      "aliases": ["Book of Formation", "Book of Creation"],
+      "tradition": "Kabbalah",
+      "lang": "Hebrew",
+      "century": "3rd–6th c. (core)",
+      "weight": "critical",
+      "summary": "The shortest foundational Jewish esoteric text: 32 paths of wisdom — 10 sefirot and 22 letters — as the grammar of creation. Later Kabbalah hangs the Tree on this frame. Westcott's 1887 English is public domain; it is a Victorian reading, not a critical edition.",
+      "in_the_file": "Short chapters on letters, mothers, doubles, simples, and the sefirot of nothingness. This station's Tree window is a gadget built on that count, not a substitute for the Hebrew.",
+      "excerpt": "In thirty-two mysterious paths of wisdom did the Lord of Hosts engrave his name: ten sefirot of nothingness and twenty-two foundation letters.",
+      "also_see": ["bahir", "zohar"],
+      "sources": [
+        {"label": "Westcott 1887 (Sacred Texts)", "url": "https://www.sacred-texts.com/jud/yetzirah.htm"},
+        {"label": "Hebrew Wikisource", "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%99%D7%A6%D7%99%D7%A8%D7%94"}
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "gospel-thomas",
+      "name": "Gospel of Thomas",
+      "aliases": ["Thomas", "NHL II,2"],
+      "tradition": "Gnostic / Thomasine",
+      "lang": "Coptic (Greek fragments)",
+      "century": "1st–2nd c. (compiled)",
+      "weight": "high",
+      "summary": "A sayings gospel from Nag Hammadi Codex II: 114 logia, no passion narrative. 'Whoever finds the interpretation of these sayings will not taste death.' The public desk is the Coptic text plus several modern English versions — this station does not host a copyrighted translation.",
+      "in_the_file": "Sayings, not a story. Greek Oxyrhynchus scraps (P.Oxy. 1, 654, 655) are the older public fragments. For a full English, use a published translator; we keep a working paraphrase of the incipit only.",
+      "excerpt": "These are the hidden sayings that the living Jesus spoke and Didymus Judas Thomas wrote down. Whoever finds the interpretation of these sayings will not taste death.",
+      "also_see": ["apocryphon-john", "poimandres"],
+      "sources": [
+        {"label": "Gnosis.org — Thomas (Lambdin, for reading)", "url": "https://www.gnosis.org/naghamm/gthlamb.html"},
+        {"label": "P.Oxy. 654 (Greek fragment)", "url": "https://www.earlychristianwritings.com/thomas.html"}
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "apocryphon-john",
+      "name": "Apocryphon of John",
+      "aliases": ["Secret Book of John", "Secret Revelation of John"],
+      "tradition": "Sethian Gnostic",
+      "lang": "Coptic",
+      "century": "2nd c.",
+      "weight": "high",
+      "summary": "The Sethian creation myth in full: Invisible Spirit, Barbelo, the aeons, Sophia's error, Yaldabaoth, and the imprisonment of light in Adam. If Thomas is a sayings desk, this is the cosmological one. Four Coptic copies survive.",
+      "in_the_file": "A long revelation dialogue. Treat the demiurge here as a character in a specific myth, not as a universal 'evil god' slogan. Waldstein/Wisse and others are copyrighted; cite a reading-room URL, do not paste their pages.",
+      "excerpt": "The Monad is a monarchy with nothing above it. It is he who exists as God and Father of everything, the invisible One who is above everything, who exists as incorruption.",
+      "also_see": ["gospel-thomas", "poimandres"],
+      "sources": [
+        {"label": "Gnosis.org — Apocryphon of John", "url": "https://www.gnosis.org/naghamm/apocjn.html"},
+        {"label": "Nag Hammadi Library index", "url": "http://www.gnosis.org/naghamm/nhl.html"}
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "bahir",
+      "name": "Sefer ha-Bahir",
+      "aliases": ["Bahir", "Book of Brightness"],
+      "tradition": "Kabbalah",
+      "lang": "Hebrew",
+      "century": "12th c. Provence",
+      "weight": "high",
+      "summary": "The first Kabbalistic book to speak in the later idiom: sefirot as a living tree, letters as cosmic organs, and a mythic tone closer to midrash than to Yetzirah's grammar. Attributed backward to the tannaim; the working text is medieval.",
+      "in_the_file": "Short numbered paragraphs, often obscure. Kaplan's English is modern and copyrighted. Use the Hebrew and older scholarly descriptions at the desk; do not treat Kaplan as public domain.",
+      "excerpt": "And what is the tree of which we have spoken? He said: All the divine powers, one above the other, and they are like a tree.",
+      "also_see": ["sefer-yetzirah", "zohar"],
+      "sources": [
+        {"label": "Hebrew Wikisource — Bahir", "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%94%D7%91%D7%94%D7%99%D7%A8"},
+        {"label": "Sacred Texts — Kabbalah shelf", "url": "https://www.sacred-texts.com/jud/index.htm"}
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "zohar",
+      "name": "Zohar",
+      "aliases": ["Sefer ha-Zohar", "Book of Splendor", "Idra Rabba"],
+      "tradition": "Kabbalah",
+      "lang": "Aramaic",
+      "century": "13th c. (Castile)",
+      "weight": "critical",
+      "summary": "The great Kabbalistic midrash, written mainly in Aramaic and issued in the circle of Moses de León. Not one pamphlet: a library (Zohar, Tikkunei Zohar, Idrot). Later Lurianic Kabbalah reads it as scripture. This desk keeps the opening of Genesis commentary as the handle.",
+      "in_the_file": "A shelf, not a file. Sperling/Simon (1931–34) English is the usual public-domain door. Do not pretend a single excerpt is 'the Zohar.'",
+      "excerpt": "In the beginning — when the will of the King began to take effect, he engraved signs into the heavenly sphere. A dark flame issued from within the most hidden recess.",
+      "also_see": ["bahir", "sefer-yetzirah"],
+      "sources": [
+        {"label": "Sperling & Simon (Sacred Texts)", "url": "https://www.sacred-texts.com/jud/zdm/index.htm"},
+        {"label": "Hebrew Wikisource — Zohar", "url": "https://he.wikisource.org/wiki/%D7%96%D7%95%D7%94%D7%A8"}
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "fama",
+      "name": "Fama Fraternitatis",
+      "aliases": ["Fama", "Discovery of the Fraternity of the Most Laudable Order of the Rosy Cross"],
+      "tradition": "Rosicrucian",
+      "lang": "German",
+      "century": "1614",
+      "weight": "high",
+      "summary": "The first Rosicrucian manifesto: the life of Christian Rosenkreuz, a hidden brotherhood, and a call to a general reformation of the world. It is a printed myth that built a desk, not minutes of a lodge.",
+      "in_the_file": "A short German pamphlet (Cassel, 1614) plus the later Confessio and Chymical Wedding. Waite's English and 17th-century translations are public domain.",
+      "excerpt": "We are called of God to send forth this Fama, that the learned of Europe might know of our Fraternity and of the reformation of divine and human things.",
+      "also_see": ["agrippa", "emerald-tablet"],
+      "sources": [
+        {"label": "Sacred Texts — Fama", "url": "https://www.sacred-texts.com/sro/rhr/rhr06.htm"},
+        {"label": "Waite, Real History of the Rosicrucians", "url": "https://www.sacred-texts.com/sro/rhr/index.htm"}
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "agrippa",
+      "name": "Three Books of Occult Philosophy",
+      "aliases": ["De occulta philosophia", "Agrippa"],
+      "tradition": "Renaissance magic",
+      "lang": "Latin",
+      "century": "1533",
+      "weight": "high",
+      "summary": "Heinrich Cornelius Agrippa's encyclopedia of elemental, celestial, and intellectual magic. The working desk of Renaissance occultism: letters, numbers, stars, stones, and the three worlds. The 1651 English (Freake) is public domain.",
+      "in_the_file": "Three books. Book I elementals and natural magic; Book II celestial/mathematical; Book III ceremonial and the names. Use it as a correspondence engine — which is what this station's XREF window is for.",
+      "excerpt": "Seeing there is a three-fold world, elementary, celestial, and intellectual, and every inferior is governed by its superior, the very original and chief Worker of all doth by angels, heavens, stars, elements, animals, plants, metals, and stones convey from himself the virtues of his omnipotency.",
+      "also_see": ["picatrix", "emerald-tablet"],
+      "sources": [
+        {"label": "Freake 1651 (Sacred Texts)", "url": "https://www.sacred-texts.com/eso/ago/index.htm"},
+        {"label": "Esoteric Archives — Agrippa", "url": "https://www.esotericarchives.com/agrippa/agrippa1.htm"}
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "picatrix",
+      "name": "Picatrix",
+      "aliases": ["Ghāyat al-Ḥakīm", "Aim of the Sage"],
+      "tradition": "Astrological magic",
+      "lang": "Arabic → Spanish → Latin",
+      "century": "10th–11th c. (Latin 13th)",
+      "weight": "high",
+      "summary": "The medieval handbook of astral magic: talismans timed to planets, decans, and lunar mansions. Written in Arabic as Ghāyat al-Ḥakīm, it entered Latin Europe as Picatrix and sat on the same shelf Agrippa later indexed.",
+      "in_the_file": "Four books of theory and operations. Greer's English is modern and copyrighted. The Latin (Pingree) is the scholarly text; this desk cites public scans and keeps a short working line, not a ritual manual.",
+      "excerpt": "The sage who knows the motions of the heavens and the natures of the stones may draw the virtue of a star into an image, if he work at the appointed hour.",
+      "also_see": ["agrippa", "emerald-tablet"],
+      "sources": [
+        {"label": "Esoteric Archives — Picatrix notes", "url": "https://www.esotericarchives.com/picatrix.htm"},
+        {"label": "Warburg / Pingree Latin context", "url": "https://warburg.sas.ac.uk/"}
+      ]
+    }
+  ]
+}

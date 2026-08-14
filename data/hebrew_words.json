@@ -1,0 +1,1442 @@
+[
+  {
+    "word": "שלום",
+    "transliteration": "shalom",
+    "meaning": "peace",
+    "value": 376
+  },
+  {
+    "word": "אהבה",
+    "transliteration": "ahavah",
+    "meaning": "love",
+    "value": 13
+  },
+  {
+    "word": "חכמה",
+    "transliteration": "chokhmah",
+    "meaning": "wisdom",
+    "value": 73
+  },
+  {
+    "word": "בינה",
+    "transliteration": "binah",
+    "meaning": "understanding",
+    "value": 67
+  },
+  {
+    "word": "דעת",
+    "transliteration": "daat",
+    "meaning": "knowledge",
+    "value": 474
+  },
+  {
+    "word": "אמת",
+    "transliteration": "emet",
+    "meaning": "truth",
+    "value": 441
+  },
+  {
+    "word": "אור",
+    "transliteration": "or",
+    "meaning": "light",
+    "value": 207
+  },
+  {
+    "word": "חיים",
+    "transliteration": "chayim",
+    "meaning": "life",
+    "value": 68
+  },
+  {
+    "word": "מלך",
+    "transliteration": "melekh",
+    "meaning": "king",
+    "value": 90
+  },
+  {
+    "word": "מלכה",
+    "transliteration": "malkah",
+    "meaning": "queen",
+    "value": 95
+  },
+  {
+    "word": "אדם",
+    "transliteration": "adam",
+    "meaning": "human",
+    "value": 45
+  },
+  {
+    "word": "אישה",
+    "transliteration": "ishah",
+    "meaning": "woman",
+    "value": 316
+  },
+  {
+    "word": "איש",
+    "transliteration": "ish",
+    "meaning": "man",
+    "value": 311
+  },
+  {
+    "word": "ילד",
+    "transliteration": "yeled",
+    "meaning": "boy",
+    "value": 44
+  },
+  {
+    "word": "ילדה",
+    "transliteration": "yaldah",
+    "meaning": "girl",
+    "value": 49
+  },
+  {
+    "word": "בית",
+    "transliteration": "bayit",
+    "meaning": "house",
+    "value": 412
+  },
+  {
+    "word": "מים",
+    "transliteration": "mayim",
+    "meaning": "water",
+    "value": 90
+  },
+  {
+    "word": "אש",
+    "transliteration": "esh",
+    "meaning": "fire",
+    "value": 301
+  },
+  {
+    "word": "ארץ",
+    "transliteration": "eretz",
+    "meaning": "land",
+    "value": 291
+  },
+  {
+    "word": "שמים",
+    "transliteration": "shamayim",
+    "meaning": "heaven",
+    "value": 390
+  },
+  {
+    "word": "רוח",
+    "transliteration": "ruach",
+    "meaning": "spirit",
+    "value": 214
+  },
+  {
+    "word": "נפש",
+    "transliteration": "nefesh",
+    "meaning": "soul",
+    "value": 430
+  },
+  {
+    "word": "לב",
+    "transliteration": "lev",
+    "meaning": "heart",
+    "value": 32
+  },
+  {
+    "word": "עין",
+    "transliteration": "ayin",
+    "meaning": "eye",
+    "value": 130
+  },
+  {
+    "word": "יד",
+    "transliteration": "yad",
+    "meaning": "hand",
+    "value": 14
+  },
+  {
+    "word": "ראש",
+    "transliteration": "rosh",
+    "meaning": "head",
+    "value": 501
+  },
+  {
+    "word": "פה",
+    "transliteration": "peh",
+    "meaning": "mouth",
+    "value": 85
+  },
+  {
+    "word": "שם",
+    "transliteration": "shem",
+    "meaning": "name",
+    "value": 340
+  },
+  {
+    "word": "יום",
+    "transliteration": "yom",
+    "meaning": "day",
+    "value": 56
+  },
+  {
+    "word": "לילה",
+    "transliteration": "laylah",
+    "meaning": "night",
+    "value": 75
+  },
+  {
+    "word": "שבת",
+    "transliteration": "shabbat",
+    "meaning": "sabbath",
+    "value": 702
+  },
+  {
+    "word": "חג",
+    "transliteration": "chag",
+    "meaning": "festival",
+    "value": 11
+  },
+  {
+    "word": "תורה",
+    "transliteration": "torah",
+    "meaning": "teaching",
+    "value": 611
+  },
+  {
+    "word": "מצוה",
+    "transliteration": "mitzvah",
+    "meaning": "commandment",
+    "value": 141
+  },
+  {
+    "word": "תפילה",
+    "transliteration": "tefillah",
+    "meaning": "prayer",
+    "value": 525
+  },
+  {
+    "word": "ברכה",
+    "transliteration": "berakhah",
+    "meaning": "blessing",
+    "value": 227
+  },
+  {
+    "word": "קדוש",
+    "transliteration": "kadosh",
+    "meaning": "holy",
+    "value": 410
+  },
+  {
+    "word": "קדושה",
+    "transliteration": "kedushah",
+    "meaning": "holiness",
+    "value": 415
+  },
+  {
+    "word": "כבוד",
+    "transliteration": "kavod",
+    "meaning": "honor",
+    "value": 32
+  },
+  {
+    "word": "חסד",
+    "transliteration": "chesed",
+    "meaning": "kindness",
+    "value": 72
+  },
+  {
+    "word": "גבורה",
+    "transliteration": "gevurah",
+    "meaning": "strength",
+    "value": 216
+  },
+  {
+    "word": "תפארת",
+    "transliteration": "tiferet",
+    "meaning": "beauty",
+    "value": 1081
+  },
+  {
+    "word": "נצח",
+    "transliteration": "netzach",
+    "meaning": "endurance",
+    "value": 148
+  },
+  {
+    "word": "הוד",
+    "transliteration": "hod",
+    "meaning": "splendor",
+    "value": 15
+  },
+  {
+    "word": "יסוד",
+    "transliteration": "yesod",
+    "meaning": "foundation",
+    "value": 80
+  },
+  {
+    "word": "מלכות",
+    "transliteration": "malkhut",
+    "meaning": "kingdom",
+    "value": 496
+  },
+  {
+    "word": "משה",
+    "transliteration": "moshe",
+    "meaning": "Moses",
+    "value": 345
+  },
+  {
+    "word": "אהרן",
+    "transliteration": "aharon",
+    "meaning": "Aaron",
+    "value": 256
+  },
+  {
+    "word": "דוד",
+    "transliteration": "david",
+    "meaning": "David",
+    "value": 14
+  },
+  {
+    "word": "שלמה",
+    "transliteration": "shlomo",
+    "meaning": "Solomon",
+    "value": 375
+  },
+  {
+    "word": "אברהם",
+    "transliteration": "avraham",
+    "meaning": "Abraham",
+    "value": 248
+  },
+  {
+    "word": "יצחק",
+    "transliteration": "yitzchak",
+    "meaning": "Isaac",
+    "value": 208
+  },
+  {
+    "word": "יעקב",
+    "transliteration": "yaakov",
+    "meaning": "Jacob",
+    "value": 182
+  },
+  {
+    "word": "שרה",
+    "transliteration": "sarah",
+    "meaning": "Sarah",
+    "value": 505
+  },
+  {
+    "word": "רבקה",
+    "transliteration": "rivkah",
+    "meaning": "Rebecca",
+    "value": 307
+  },
+  {
+    "word": "רחל",
+    "transliteration": "rachel",
+    "meaning": "Rachel",
+    "value": 238
+  },
+  {
+    "word": "לאה",
+    "transliteration": "leah",
+    "meaning": "Leah",
+    "value": 36
+  },
+  {
+    "word": "יוסף",
+    "transliteration": "yosef",
+    "meaning": "Joseph",
+    "value": 156
+  },
+  {
+    "word": "יהודה",
+    "transliteration": "yehudah",
+    "meaning": "Judah",
+    "value": 30
+  },
+  {
+    "word": "ישראל",
+    "transliteration": "yisrael",
+    "meaning": "Israel",
+    "value": 541
+  },
+  {
+    "word": "ירושלים",
+    "transliteration": "yerushalayim",
+    "meaning": "Jerusalem",
+    "value": 596
+  },
+  {
+    "word": "ציון",
+    "transliteration": "tzion",
+    "meaning": "Zion",
+    "value": 156
+  },
+  {
+    "word": "כהן",
+    "transliteration": "kohen",
+    "meaning": "priest",
+    "value": 75
+  },
+  {
+    "word": "לוי",
+    "transliteration": "levi",
+    "meaning": "Levite",
+    "value": 46
+  },
+  {
+    "word": "נביא",
+    "transliteration": "navi",
+    "meaning": "prophet",
+    "value": 63
+  },
+  {
+    "word": "שופט",
+    "transliteration": "shofet",
+    "meaning": "judge",
+    "value": 395
+  },
+  {
+    "word": "ספר",
+    "transliteration": "sefer",
+    "meaning": "book",
+    "value": 340
+  },
+  {
+    "word": "מילה",
+    "transliteration": "milah",
+    "meaning": "word",
+    "value": 85
+  },
+  {
+    "word": "קול",
+    "transliteration": "kol",
+    "meaning": "voice",
+    "value": 136
+  },
+  {
+    "word": "שיר",
+    "transliteration": "shir",
+    "meaning": "song",
+    "value": 510
+  },
+  {
+    "word": "מזמור",
+    "transliteration": "mizmor",
+    "meaning": "psalm",
+    "value": 293
+  },
+  {
+    "word": "לחם",
+    "transliteration": "lechem",
+    "meaning": "bread",
+    "value": 78
+  },
+  {
+    "word": "יין",
+    "transliteration": "yayin",
+    "meaning": "wine",
+    "value": 70
+  },
+  {
+    "word": "שמן",
+    "transliteration": "shemen",
+    "meaning": "oil",
+    "value": 390
+  },
+  {
+    "word": "דבש",
+    "transliteration": "dvash",
+    "meaning": "honey",
+    "value": 306
+  },
+  {
+    "word": "חלב",
+    "transliteration": "chalav",
+    "meaning": "milk",
+    "value": 40
+  },
+  {
+    "word": "מלח",
+    "transliteration": "melach",
+    "meaning": "salt",
+    "value": 78
+  },
+  {
+    "word": "בשר",
+    "transliteration": "basar",
+    "meaning": "meat",
+    "value": 502
+  },
+  {
+    "word": "דג",
+    "transliteration": "dag",
+    "meaning": "fish",
+    "value": 7
+  },
+  {
+    "word": "פרי",
+    "transliteration": "peri",
+    "meaning": "fruit",
+    "value": 290
+  },
+  {
+    "word": "עץ",
+    "transliteration": "etz",
+    "meaning": "tree",
+    "value": 160
+  },
+  {
+    "word": "פרח",
+    "transliteration": "perach",
+    "meaning": "flower",
+    "value": 288
+  },
+  {
+    "word": "גן",
+    "transliteration": "gan",
+    "meaning": "garden",
+    "value": 53
+  },
+  {
+    "word": "הר",
+    "transliteration": "har",
+    "meaning": "mountain",
+    "value": 205
+  },
+  {
+    "word": "ים",
+    "transliteration": "yam",
+    "meaning": "sea",
+    "value": 50
+  },
+  {
+    "word": "נהר",
+    "transliteration": "nahar",
+    "meaning": "river",
+    "value": 255
+  },
+  {
+    "word": "מדבר",
+    "transliteration": "midbar",
+    "meaning": "desert",
+    "value": 246
+  },
+  {
+    "word": "עיר",
+    "transliteration": "ir",
+    "meaning": "city",
+    "value": 280
+  },
+  {
+    "word": "כפר",
+    "transliteration": "kfar",
+    "meaning": "village",
+    "value": 300
+  },
+  {
+    "word": "דרך",
+    "transliteration": "derekh",
+    "meaning": "way",
+    "value": 224
+  },
+  {
+    "word": "שער",
+    "transliteration": "shaar",
+    "meaning": "gate",
+    "value": 570
+  },
+  {
+    "word": "כסף",
+    "transliteration": "kesef",
+    "meaning": "silver",
+    "value": 160
+  },
+  {
+    "word": "זהב",
+    "transliteration": "zahav",
+    "meaning": "gold",
+    "value": 14
+  },
+  {
+    "word": "ברזל",
+    "transliteration": "barzel",
+    "meaning": "iron",
+    "value": 239
+  },
+  {
+    "word": "אבן",
+    "transliteration": "even",
+    "meaning": "stone",
+    "value": 53
+  },
+  {
+    "word": "עולם",
+    "transliteration": "olam",
+    "meaning": "world",
+    "value": 146
+  },
+  {
+    "word": "זמן",
+    "transliteration": "zman",
+    "meaning": "time",
+    "value": 97
+  },
+  {
+    "word": "שנה",
+    "transliteration": "shanah",
+    "meaning": "year",
+    "value": 355
+  },
+  {
+    "word": "חודש",
+    "transliteration": "chodesh",
+    "meaning": "month",
+    "value": 318
+  },
+  {
+    "word": "שבוע",
+    "transliteration": "shavua",
+    "meaning": "week",
+    "value": 378
+  },
+  {
+    "word": "בוקר",
+    "transliteration": "boker",
+    "meaning": "morning",
+    "value": 308
+  },
+  {
+    "word": "ערב",
+    "transliteration": "erev",
+    "meaning": "evening",
+    "value": 272
+  },
+  {
+    "word": "צהרים",
+    "transliteration": "tzohorayim",
+    "meaning": "noon",
+    "value": 345
+  },
+  {
+    "word": "רגע",
+    "transliteration": "rega",
+    "meaning": "moment",
+    "value": 273
+  },
+  {
+    "word": "טוב",
+    "transliteration": "tov",
+    "meaning": "good",
+    "value": 17
+  },
+  {
+    "word": "רע",
+    "transliteration": "ra",
+    "meaning": "bad",
+    "value": 270
+  },
+  {
+    "word": "גדול",
+    "transliteration": "gadol",
+    "meaning": "great",
+    "value": 43
+  },
+  {
+    "word": "קטן",
+    "transliteration": "katan",
+    "meaning": "small",
+    "value": 159
+  },
+  {
+    "word": "חדש",
+    "transliteration": "chadash",
+    "meaning": "new",
+    "value": 312
+  },
+  {
+    "word": "ישן",
+    "transliteration": "yashan",
+    "meaning": "old",
+    "value": 360
+  },
+  {
+    "word": "יפה",
+    "transliteration": "yafeh",
+    "meaning": "beautiful",
+    "value": 95
+  },
+  {
+    "word": "חזק",
+    "transliteration": "chazak",
+    "meaning": "strong",
+    "value": 115
+  },
+  {
+    "word": "חלש",
+    "transliteration": "chalash",
+    "meaning": "weak",
+    "value": 338
+  },
+  {
+    "word": "חכם",
+    "transliteration": "chakham",
+    "meaning": "wise",
+    "value": 68
+  },
+  {
+    "word": "תם",
+    "transliteration": "tam",
+    "meaning": "simple",
+    "value": 440
+  },
+  {
+    "word": "עשיר",
+    "transliteration": "ashir",
+    "meaning": "rich",
+    "value": 580
+  },
+  {
+    "word": "עני",
+    "transliteration": "ani",
+    "meaning": "poor",
+    "value": 130
+  },
+  {
+    "word": "שמח",
+    "transliteration": "sameach",
+    "meaning": "happy",
+    "value": 348
+  },
+  {
+    "word": "עצוב",
+    "transliteration": "atzuv",
+    "meaning": "sad",
+    "value": 168
+  },
+  {
+    "word": "נקי",
+    "transliteration": "naki",
+    "meaning": "clean",
+    "value": 160
+  },
+  {
+    "word": "טהור",
+    "transliteration": "tahor",
+    "meaning": "pure",
+    "value": 220
+  },
+  {
+    "word": "חי",
+    "transliteration": "chai",
+    "meaning": "alive",
+    "value": 18
+  },
+  {
+    "word": "מת",
+    "transliteration": "met",
+    "meaning": "dead",
+    "value": 440
+  },
+  {
+    "word": "אוכל",
+    "transliteration": "okhel",
+    "meaning": "food",
+    "value": 57
+  },
+  {
+    "word": "שתיה",
+    "transliteration": "shtiyah",
+    "meaning": "drink",
+    "value": 715
+  },
+  {
+    "word": "עבודה",
+    "transliteration": "avodah",
+    "meaning": "work",
+    "value": 87
+  },
+  {
+    "word": "מנוחה",
+    "transliteration": "menuchah",
+    "meaning": "rest",
+    "value": 109
+  },
+  {
+    "word": "משפחה",
+    "transliteration": "mishpachah",
+    "meaning": "family",
+    "value": 433
+  },
+  {
+    "word": "אב",
+    "transliteration": "av",
+    "meaning": "father",
+    "value": 3
+  },
+  {
+    "word": "אם",
+    "transliteration": "em",
+    "meaning": "mother",
+    "value": 41
+  },
+  {
+    "word": "בן",
+    "transliteration": "ben",
+    "meaning": "son",
+    "value": 52
+  },
+  {
+    "word": "בת",
+    "transliteration": "bat",
+    "meaning": "daughter",
+    "value": 402
+  },
+  {
+    "word": "אח",
+    "transliteration": "ach",
+    "meaning": "brother",
+    "value": 9
+  },
+  {
+    "word": "אחות",
+    "transliteration": "achot",
+    "meaning": "sister",
+    "value": 415
+  },
+  {
+    "word": "סבא",
+    "transliteration": "saba",
+    "meaning": "grandfather",
+    "value": 63
+  },
+  {
+    "word": "סבתא",
+    "transliteration": "savta",
+    "meaning": "grandmother",
+    "value": 463
+  },
+  {
+    "word": "חבר",
+    "transliteration": "chaver",
+    "meaning": "friend",
+    "value": 210
+  },
+  {
+    "word": "רעיה",
+    "transliteration": "rayah",
+    "meaning": "wife",
+    "value": 285
+  },
+  {
+    "word": "בעל",
+    "transliteration": "baal",
+    "meaning": "husband",
+    "value": 102
+  },
+  {
+    "word": "חתן",
+    "transliteration": "chatan",
+    "meaning": "groom",
+    "value": 458
+  },
+  {
+    "word": "כלה",
+    "transliteration": "kallah",
+    "meaning": "bride",
+    "value": 55
+  },
+  {
+    "word": "תינוק",
+    "transliteration": "tinok",
+    "meaning": "baby",
+    "value": 566
+  },
+  {
+    "word": "רופא",
+    "transliteration": "rofe",
+    "meaning": "doctor",
+    "value": 287
+  },
+  {
+    "word": "מורה",
+    "transliteration": "moreh",
+    "meaning": "teacher",
+    "value": 251
+  },
+  {
+    "word": "תלמיד",
+    "transliteration": "talmid",
+    "meaning": "student",
+    "value": 484
+  },
+  {
+    "word": "חייל",
+    "transliteration": "chayal",
+    "meaning": "soldier",
+    "value": 58
+  },
+  {
+    "word": "סופר",
+    "transliteration": "sofer",
+    "meaning": "scribe",
+    "value": 346
+  },
+  {
+    "word": "אומן",
+    "transliteration": "oman",
+    "meaning": "artist",
+    "value": 97
+  },
+  {
+    "word": "חקלאי",
+    "transliteration": "chaklai",
+    "meaning": "farmer",
+    "value": 149
+  },
+  {
+    "word": "מלחמה",
+    "transliteration": "milchamah",
+    "meaning": "war",
+    "value": 123
+  },
+  {
+    "word": "חרב",
+    "transliteration": "cherev",
+    "meaning": "sword",
+    "value": 210
+  },
+  {
+    "word": "קשת",
+    "transliteration": "keshet",
+    "meaning": "bow",
+    "value": 800
+  },
+  {
+    "word": "מגן",
+    "transliteration": "magen",
+    "meaning": "shield",
+    "value": 93
+  },
+  {
+    "word": "אויב",
+    "transliteration": "oyev",
+    "meaning": "enemy",
+    "value": 19
+  },
+  {
+    "word": "גיבור",
+    "transliteration": "gibor",
+    "meaning": "hero",
+    "value": 221
+  },
+  {
+    "word": "משפט",
+    "transliteration": "mishpat",
+    "meaning": "justice",
+    "value": 429
+  },
+  {
+    "word": "צדק",
+    "transliteration": "tzedek",
+    "meaning": "righteousness",
+    "value": 194
+  },
+  {
+    "word": "רחמים",
+    "transliteration": "rachamim",
+    "meaning": "mercy",
+    "value": 298
+  },
+  {
+    "word": "סליחה",
+    "transliteration": "selichah",
+    "meaning": "forgiveness",
+    "value": 113
+  },
+  {
+    "word": "חטא",
+    "transliteration": "chet",
+    "meaning": "sin",
+    "value": 18
+  },
+  {
+    "word": "עוון",
+    "transliteration": "avon",
+    "meaning": "iniquity",
+    "value": 132
+  },
+  {
+    "word": "גאולה",
+    "transliteration": "geulah",
+    "meaning": "redemption",
+    "value": 45
+  },
+  {
+    "word": "משיח",
+    "transliteration": "mashiach",
+    "meaning": "messiah",
+    "value": 358
+  },
+  {
+    "word": "מקדש",
+    "transliteration": "mikdash",
+    "meaning": "sanctuary",
+    "value": 444
+  },
+  {
+    "word": "מזבח",
+    "transliteration": "mizbeach",
+    "meaning": "altar",
+    "value": 57
+  },
+  {
+    "word": "קורבן",
+    "transliteration": "korban",
+    "meaning": "offering",
+    "value": 358
+  },
+  {
+    "word": "קטורת",
+    "transliteration": "ketoret",
+    "meaning": "incense",
+    "value": 715
+  },
+  {
+    "word": "מלאך",
+    "transliteration": "malakh",
+    "meaning": "angel",
+    "value": 91
+  },
+  {
+    "word": "שטן",
+    "transliteration": "satan",
+    "meaning": "adversary",
+    "value": 359
+  },
+  {
+    "word": "גןעדן",
+    "transliteration": "ganeden",
+    "meaning": "Eden",
+    "value": 177
+  },
+  {
+    "word": "גיהנם",
+    "transliteration": "gehenom",
+    "meaning": "Gehinnom",
+    "value": 108
+  },
+  {
+    "word": "בראשית",
+    "transliteration": "bereshit",
+    "meaning": "beginning",
+    "value": 913
+  },
+  {
+    "word": "שמות",
+    "transliteration": "shemot",
+    "meaning": "names",
+    "value": 746
+  },
+  {
+    "word": "ויקרא",
+    "transliteration": "vayikra",
+    "meaning": "Leviticus",
+    "value": 317
+  },
+  {
+    "word": "במדבר",
+    "transliteration": "bamidbar",
+    "meaning": "Numbers",
+    "value": 248
+  },
+  {
+    "word": "דברים",
+    "transliteration": "devarim",
+    "meaning": "words",
+    "value": 256
+  },
+  {
+    "word": "תהלים",
+    "transliteration": "tehillim",
+    "meaning": "Psalms",
+    "value": 485
+  },
+  {
+    "word": "משלי",
+    "transliteration": "mishlei",
+    "meaning": "Proverbs",
+    "value": 380
+  },
+  {
+    "word": "איוב",
+    "transliteration": "iyov",
+    "meaning": "Job",
+    "value": 19
+  },
+  {
+    "word": "רות",
+    "transliteration": "rut",
+    "meaning": "Ruth",
+    "value": 606
+  },
+  {
+    "word": "אסתר",
+    "transliteration": "ester",
+    "meaning": "Esther",
+    "value": 661
+  },
+  {
+    "word": "דניאל",
+    "transliteration": "daniel",
+    "meaning": "Daniel",
+    "value": 95
+  },
+  {
+    "word": "עזרא",
+    "transliteration": "ezra",
+    "meaning": "Ezra",
+    "value": 278
+  },
+  {
+    "word": "נחמיה",
+    "transliteration": "nechemyah",
+    "meaning": "Nehemiah",
+    "value": 113
+  },
+  {
+    "word": "מלכים",
+    "transliteration": "melakhim",
+    "meaning": "Kings",
+    "value": 140
+  },
+  {
+    "word": "שמואל",
+    "transliteration": "shmuel",
+    "meaning": "Samuel",
+    "value": 377
+  },
+  {
+    "word": "ישעיה",
+    "transliteration": "yeshayah",
+    "meaning": "Isaiah",
+    "value": 395
+  },
+  {
+    "word": "ירמיה",
+    "transliteration": "yirmeyah",
+    "meaning": "Jeremiah",
+    "value": 265
+  },
+  {
+    "word": "יחזקאל",
+    "transliteration": "yechezkel",
+    "meaning": "Ezekiel",
+    "value": 156
+  },
+  {
+    "word": "הושע",
+    "transliteration": "hoshea",
+    "meaning": "Hosea",
+    "value": 381
+  },
+  {
+    "word": "יואל",
+    "transliteration": "yoel",
+    "meaning": "Joel",
+    "value": 47
+  },
+  {
+    "word": "עמוס",
+    "transliteration": "amos",
+    "meaning": "Amos",
+    "value": 176
+  },
+  {
+    "word": "עובדיה",
+    "transliteration": "ovadyah",
+    "meaning": "Obadiah",
+    "value": 97
+  },
+  {
+    "word": "יונה",
+    "transliteration": "yonah",
+    "meaning": "Jonah",
+    "value": 71
+  },
+  {
+    "word": "מיכה",
+    "transliteration": "mikhah",
+    "meaning": "Micah",
+    "value": 75
+  },
+  {
+    "word": "נחום",
+    "transliteration": "nachum",
+    "meaning": "Nahum",
+    "value": 104
+  },
+  {
+    "word": "חבקוק",
+    "transliteration": "chavakuk",
+    "meaning": "Habakkuk",
+    "value": 216
+  },
+  {
+    "word": "צפניה",
+    "transliteration": "tzefanyah",
+    "meaning": "Zephaniah",
+    "value": 235
+  },
+  {
+    "word": "חגי",
+    "transliteration": "chaggai",
+    "meaning": "Haggai",
+    "value": 21
+  },
+  {
+    "word": "זכריה",
+    "transliteration": "zekharyah",
+    "meaning": "Zechariah",
+    "value": 242
+  },
+  {
+    "word": "מלאכי",
+    "transliteration": "malakhi",
+    "meaning": "Malachi",
+    "value": 101
+  },
+  {
+    "word": "ראשון",
+    "transliteration": "rishon",
+    "meaning": "first",
+    "value": 557
+  },
+  {
+    "word": "שני",
+    "transliteration": "sheni",
+    "meaning": "second",
+    "value": 360
+  },
+  {
+    "word": "שלישי",
+    "transliteration": "shlishi",
+    "meaning": "third",
+    "value": 650
+  },
+  {
+    "word": "רביעי",
+    "transliteration": "revii",
+    "meaning": "fourth",
+    "value": 292
+  },
+  {
+    "word": "חמישי",
+    "transliteration": "chamishi",
+    "meaning": "fifth",
+    "value": 368
+  },
+  {
+    "word": "שישי",
+    "transliteration": "shishi",
+    "meaning": "sixth",
+    "value": 620
+  },
+  {
+    "word": "שביעי",
+    "transliteration": "shevii",
+    "meaning": "seventh",
+    "value": 392
+  },
+  {
+    "word": "אחד",
+    "transliteration": "echad",
+    "meaning": "one",
+    "value": 13
+  },
+  {
+    "word": "שנים",
+    "transliteration": "shnayim",
+    "meaning": "two",
+    "value": 400
+  },
+  {
+    "word": "שלוש",
+    "transliteration": "shalosh",
+    "meaning": "three",
+    "value": 636
+  },
+  {
+    "word": "ארבע",
+    "transliteration": "arba",
+    "meaning": "four",
+    "value": 273
+  },
+  {
+    "word": "חמש",
+    "transliteration": "chamesh",
+    "meaning": "five",
+    "value": 348
+  },
+  {
+    "word": "שש",
+    "transliteration": "shesh",
+    "meaning": "six",
+    "value": 600
+  },
+  {
+    "word": "שבע",
+    "transliteration": "sheva",
+    "meaning": "seven",
+    "value": 372
+  },
+  {
+    "word": "שמונה",
+    "transliteration": "shmoneh",
+    "meaning": "eight",
+    "value": 401
+  },
+  {
+    "word": "תשע",
+    "transliteration": "tesha",
+    "meaning": "nine",
+    "value": 770
+  },
+  {
+    "word": "עשר",
+    "transliteration": "eser",
+    "meaning": "ten",
+    "value": 570
+  },
+  {
+    "word": "מאה",
+    "transliteration": "meah",
+    "meaning": "hundred",
+    "value": 46
+  },
+  {
+    "word": "אלף",
+    "transliteration": "elef",
+    "meaning": "thousand",
+    "value": 111
+  },
+  {
+    "word": "כן",
+    "transliteration": "ken",
+    "meaning": "yes",
+    "value": 70
+  },
+  {
+    "word": "לא",
+    "transliteration": "lo",
+    "meaning": "no",
+    "value": 31
+  },
+  {
+    "word": "מי",
+    "transliteration": "mi",
+    "meaning": "who",
+    "value": 50
+  },
+  {
+    "word": "מה",
+    "transliteration": "mah",
+    "meaning": "what",
+    "value": 45
+  },
+  {
+    "word": "איפה",
+    "transliteration": "eifo",
+    "meaning": "where",
+    "value": 96
+  },
+  {
+    "word": "למה",
+    "transliteration": "lamah",
+    "meaning": "why",
+    "value": 75
+  },
+  {
+    "word": "איך",
+    "transliteration": "eikh",
+    "meaning": "how",
+    "value": 31
+  },
+  {
+    "word": "כל",
+    "transliteration": "kol",
+    "meaning": "all",
+    "value": 50
+  },
+  {
+    "word": "אין",
+    "transliteration": "ein",
+    "meaning": "there is not",
+    "value": 61
+  },
+  {
+    "word": "יש",
+    "transliteration": "yesh",
+    "meaning": "there is",
+    "value": 310
+  },
+  {
+    "word": "אני",
+    "transliteration": "ani",
+    "meaning": "I",
+    "value": 61
+  },
+  {
+    "word": "אתה",
+    "transliteration": "atah",
+    "meaning": "you masculine",
+    "value": 406
+  },
+  {
+    "word": "את",
+    "transliteration": "at",
+    "meaning": "you feminine",
+    "value": 401
+  },
+  {
+    "word": "הוא",
+    "transliteration": "hu",
+    "meaning": "he",
+    "value": 12
+  },
+  {
+    "word": "היא",
+    "transliteration": "hi",
+    "meaning": "she",
+    "value": 16
+  },
+  {
+    "word": "אנחנו",
+    "transliteration": "anachnu",
+    "meaning": "we",
+    "value": 115
+  },
+  {
+    "word": "אתם",
+    "transliteration": "atem",
+    "meaning": "you plural masculine",
+    "value": 441
+  },
+  {
+    "word": "אתן",
+    "transliteration": "aten",
+    "meaning": "you plural feminine",
+    "value": 451
+  },
+  {
+    "word": "הם",
+    "transliteration": "hem",
+    "meaning": "they masculine",
+    "value": 45
+  },
+  {
+    "word": "הן",
+    "transliteration": "hen",
+    "meaning": "they feminine",
+    "value": 55
+  }
+]

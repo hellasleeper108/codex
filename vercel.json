@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/status.py": { "maxDuration": 15, "memory": 1024 },
+    "api/tractates.py": { "maxDuration": 15, "memory": 1024 },
+    "api/tree.py": { "maxDuration": 15, "memory": 1024 },
+    "api/xref.py": { "maxDuration": 15, "memory": 1024 },
+    "api/gematria.py": { "maxDuration": 15, "memory": 1024 },
+    "api/search.py": { "maxDuration": 30, "memory": 1024 }
+  }
+}

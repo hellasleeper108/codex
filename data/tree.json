@@ -1,0 +1,40 @@
+{
+  "updated": "2026-08-14",
+  "note": "Classic 10 sefirot + 22 paths (Golden Dawn letter/tarot mapping). Positions are for a 200×372 viewBox. Four-color chrome: do not paint planetary colors on the desktop.",
+  "sefirot": [
+    {"id": 1, "key": "keter", "name": "Keter", "hebrew": "כתר", "meaning": "Crown", "pillar": "Middle", "planet": "Primum Mobile", "divine_name": "Eheieh", "archangel": "Metatron", "grade": "Ipsissimus", "x": 100, "y": 22},
+    {"id": 2, "key": "chokhmah", "name": "Chokhmah", "hebrew": "חכמה", "meaning": "Wisdom", "pillar": "Right", "planet": "Zodiac", "divine_name": "Yah", "archangel": "Raziel", "grade": "Magus", "x": 36, "y": 70},
+    {"id": 3, "key": "binah", "name": "Binah", "hebrew": "בינה", "meaning": "Understanding", "pillar": "Left", "planet": "Saturn", "divine_name": "YHVH Elohim", "archangel": "Tzaphkiel", "grade": "Magister Templi", "x": 164, "y": 70},
+    {"id": 4, "key": "chesed", "name": "Chesed", "hebrew": "חסד", "meaning": "Mercy", "pillar": "Right", "planet": "Jupiter", "divine_name": "El", "archangel": "Tzadkiel", "grade": "Adeptus Exemptus", "x": 36, "y": 150},
+    {"id": 5, "key": "gevurah", "name": "Gevurah", "hebrew": "גבורה", "meaning": "Severity", "pillar": "Left", "planet": "Mars", "divine_name": "Elohim Gibor", "archangel": "Khamael", "grade": "Adeptus Major", "x": 164, "y": 150},
+    {"id": 6, "key": "tiferet", "name": "Tiferet", "hebrew": "תפארת", "meaning": "Beauty", "pillar": "Middle", "planet": "Sun", "divine_name": "YHVH Eloah ve-Daath", "archangel": "Raphael", "grade": "Adeptus Minor", "x": 100, "y": 186},
+    {"id": 7, "key": "netzach", "name": "Netzach", "hebrew": "נצח", "meaning": "Victory", "pillar": "Right", "planet": "Venus", "divine_name": "YHVH Tzabaoth", "archangel": "Haniel", "grade": "Philosophus", "x": 36, "y": 258},
+    {"id": 8, "key": "hod", "name": "Hod", "hebrew": "הוד", "meaning": "Splendor", "pillar": "Left", "planet": "Mercury", "divine_name": "Elohim Tzabaoth", "archangel": "Michael", "grade": "Practicus", "x": 164, "y": 258},
+    {"id": 9, "key": "yesod", "name": "Yesod", "hebrew": "יסוד", "meaning": "Foundation", "pillar": "Middle", "planet": "Moon", "divine_name": "Shaddai El Chai", "archangel": "Gabriel", "grade": "Zelator", "x": 100, "y": 294},
+    {"id": 10, "key": "malkuth", "name": "Malkuth", "hebrew": "מלכות", "meaning": "Kingdom", "pillar": "Middle", "planet": "Earth", "divine_name": "Adonai ha-Aretz", "archangel": "Sandalphon", "grade": "Neophyte", "x": 100, "y": 350}
+  ],
+  "paths": [
+    {"id": 11, "letter": "א", "letter_name": "Aleph", "card": "The Fool", "src": 1, "dst": 2, "astrology": "Air"},
+    {"id": 12, "letter": "ב", "letter_name": "Bet", "card": "The Magician", "src": 1, "dst": 3, "astrology": "Mercury"},
+    {"id": 13, "letter": "ג", "letter_name": "Gimel", "card": "The High Priestess", "src": 1, "dst": 6, "astrology": "Moon"},
+    {"id": 14, "letter": "ד", "letter_name": "Dalet", "card": "The Empress", "src": 2, "dst": 3, "astrology": "Venus"},
+    {"id": 15, "letter": "ה", "letter_name": "Heh", "card": "The Emperor", "src": 2, "dst": 6, "astrology": "Aries"},
+    {"id": 16, "letter": "ו", "letter_name": "Vav", "card": "The Hierophant", "src": 2, "dst": 4, "astrology": "Taurus"},
+    {"id": 17, "letter": "ז", "letter_name": "Zayin", "card": "The Lovers", "src": 3, "dst": 6, "astrology": "Gemini"},
+    {"id": 18, "letter": "ח", "letter_name": "Chet", "card": "The Chariot", "src": 3, "dst": 5, "astrology": "Cancer"},
+    {"id": 19, "letter": "ט", "letter_name": "Tet", "card": "Strength", "src": 4, "dst": 5, "astrology": "Leo"},
+    {"id": 20, "letter": "י", "letter_name": "Yod", "card": "The Hermit", "src": 4, "dst": 6, "astrology": "Virgo"},
+    {"id": 21, "letter": "כ", "letter_name": "Kaf", "card": "Wheel of Fortune", "src": 4, "dst": 7, "astrology": "Jupiter"},
+    {"id": 22, "letter": "ל", "letter_name": "Lamed", "card": "Justice", "src": 5, "dst": 6, "astrology": "Libra"},
+    {"id": 23, "letter": "מ", "letter_name": "Mem", "card": "The Hanged Man", "src": 5, "dst": 8, "astrology": "Water"},
+    {"id": 24, "letter": "נ", "letter_name": "Nun", "card": "Death", "src": 6, "dst": 7, "astrology": "Scorpio"},
+    {"id": 25, "letter": "ס", "letter_name": "Samekh", "card": "Temperance", "src": 6, "dst": 9, "astrology": "Sagittarius"},
+    {"id": 26, "letter": "ע", "letter_name": "Ayin", "card": "The Devil", "src": 6, "dst": 8, "astrology": "Capricorn"},
+    {"id": 27, "letter": "פ", "letter_name": "Peh", "card": "The Tower", "src": 7, "dst": 8, "astrology": "Mars"},
+    {"id": 28, "letter": "צ", "letter_name": "Tzadi", "card": "The Star", "src": 7, "dst": 9, "astrology": "Aquarius"},
+    {"id": 29, "letter": "ק", "letter_name": "Qof", "card": "The Moon", "src": 7, "dst": 10, "astrology": "Pisces"},
+    {"id": 30, "letter": "ר", "letter_name": "Resh", "card": "The Sun", "src": 8, "dst": 9, "astrology": "Sun"},
+    {"id": 31, "letter": "ש", "letter_name": "Shin", "card": "Judgement", "src": 8, "dst": 10, "astrology": "Fire"},
+    {"id": 32, "letter": "ת", "letter_name": "Tav", "card": "The World", "src": 9, "dst": 10, "astrology": "Saturn"}
+  ]
+}

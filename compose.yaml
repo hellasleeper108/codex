@@ -1,0 +1,11 @@
+services:
+  codex:
+    build: .
+    image: codex:1.3
+    container_name: codex
+    ports:
+      - "1987:1987"
+    environment:
+      CODEX_HOST: "0.0.0.0"
+      CODEX_PORT: "1987"
+    restart: unless-stopped
